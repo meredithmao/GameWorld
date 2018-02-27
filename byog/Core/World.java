@@ -109,7 +109,7 @@ public class World {
 
     public static void main(String[] args) {
         base();
-        roomgen(6436);
+        roomgen(345778768);
         halls();
         ter.renderFrame(world);
     }
